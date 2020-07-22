@@ -2,7 +2,7 @@ ABOUT THE SCRIPT
 -----------------
 - In this Script, you will learn how to generate a diff file showing you the difference between the raw HTML and the HTML after the browser has rendered it. 
 - When webpages use JavaScript, the HTML rendered on the client-side is different from the raw HTML rendered on the server-side. 
-- Creating a diff will allow you to see how the browser views your webpage. This is great for SEO applications.\
+- Creating a diff will allow you to see how the browser views your webpage. This is great for SEO applications.
 - We will be using repl.it to run this script
 
 HOW TO USE IT
