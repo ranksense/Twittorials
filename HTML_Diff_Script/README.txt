@@ -10,7 +10,7 @@ HOW TO USE IT
 	- html.txt
 	- renderhtml.txt
 	- diff.html
-- Click on the repl.it link to open the code on your browser. You can edit this code however you would like. 
+- Click on the repl.it link (https://repl.it/@AnirudhTatavar1/HTML-Diff#main.py) to open the code on your browser. You can edit this code however you would like. 
 - Click the green “run” button at the top of the screen and wait for the required installations to finish.
 - When you see the prompt to enter a URL, simply right click on the console and paste your code. Then hit enter in order to generate the diff.
 - Once you see the “Done!” message, click on the three dots next to “Files” and “download as zip.” 
