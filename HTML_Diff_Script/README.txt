@@ -6,7 +6,7 @@ ABOUT THE SCRIPT
 
 HOW TO USE IT
 ---------------
-- If you are pasting the code from github into your own repl.it, create the following files in your repl
+- If you are pasting the code from github into your own repl, create the following files in your repl
 	- html.txt
 	- renderhtml.txt
 	- diff.html
