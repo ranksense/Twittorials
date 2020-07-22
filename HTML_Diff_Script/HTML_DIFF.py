@@ -17,7 +17,7 @@ try:
   r = session.get(user_input)
   r.html.render(timeout=40)
   render_html = r.html.html
-except BrowserError:
+except TimeoutError:
   print("Try increasing the timeout value")
   # "timeout=___"
 
