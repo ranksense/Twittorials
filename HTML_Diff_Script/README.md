@@ -14,7 +14,7 @@
   * diff.html
 * **Click the green “run” button** at the top of the screen and wait for the required installations to finish.
 * When you see the prompt to enter a URL, **simply right click on the console and paste your URL**. Then hit enter in order to generate the diff.
-[](/images/step 3.png)
+[](/images/step_3.png)
 * Once you see the “Done!” message, click on the three dots next to “Files” and **“download as zip.”** 
 * Open the zip file and click on the “diff.html” file. This should open up the diff file on your browser. 
 * **You are finished!** (Oftentimes the HTML is large so you may need to scroll horizontally to see both parts of the diff file). 
