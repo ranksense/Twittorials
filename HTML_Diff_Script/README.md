@@ -6,7 +6,7 @@
 * We will be using **repl.it** to run this script
 
 ## HOW TO USE IT
----------------
+
 * Click on the [repl.it link](https://repl.it/@AnirudhTatavar1/HTML-Diff#main.py) to open the code on your browser. You can edit this code however you would like. 
 * If you are pasting the code from github into your own repl, create the following files in your repl
   * html.txt
@@ -22,7 +22,7 @@
 * You are finished! (Oftentimes the HTML is large so you may need to scroll horizontally to see both parts of the diff file). 
 
 ## VIEWING THE DIFF
------------------
+
 * On the left side of the diff, you will see the raw HTML and what has been removed (highlighted in red)
 * On the right side of the diff, you will see the rendered HTML and what has been added (highlighted in green)
 * **Note:** (You may need to scroll far to the right of the diff file in order to view the right half)
