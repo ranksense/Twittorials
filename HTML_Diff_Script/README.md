@@ -1,5 +1,5 @@
 ## ABOUT THE SCRIPT
------------------
+
 * In this Script, you will learn how to generate a **visual diff file** showing you the difference between the raw HTML (coming from the server) and the rendered HTML after JavaScript changes. 
 * When webpages use JavaScript, the HTML rendered on the client-side can be different from the raw HTML rendered on the server-side. 
 * Creating a visual diff will allow you to see client-side only changes. This is **great for JavaScript SEO**.
