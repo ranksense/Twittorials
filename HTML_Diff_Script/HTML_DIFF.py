@@ -38,8 +38,8 @@ with open('html.txt', 'w') as f:
 #gather both HTML files to create the diff
 fromfile = 'html.txt'
 tofile = 'renderhtml.txt'
-fromlines = open(fromfile, 'U').readlines()
-tolines = open(tofile, 'U').readlines()
+fromlines = open(fromfile, 'r').readlines()
+tolines = open(tofile, 'r').readlines()
 
 #creates the diff file
 diff = difflib.HtmlDiff().make_file(fromlines,tolines,fromfile,tofile)
