@@ -1,11 +1,11 @@
-# ABOUT THE SCRIPT
+## ABOUT THE SCRIPT
 -----------------
 * In this Script, you will learn how to generate a **visual diff file** showing you the difference between the raw HTML (coming from the server) and the rendered HTML after JavaScript changes. 
 * When webpages use JavaScript, the HTML rendered on the client-side can be different from the raw HTML rendered on the server-side. 
 * Creating a visual diff will allow you to see client-side only changes. This is **great for JavaScript SEO**.
 * We will be using **repl.it** to run this script
 
-# HOW TO USE IT
+## HOW TO USE IT
 ---------------
 * Click on the [repl.it link](https://repl.it/@AnirudhTatavar1/HTML-Diff#main.py) to open the code on your browser. You can edit this code however you would like. 
 * If you are pasting the code from github into your own repl, create the following files in your repl
@@ -21,7 +21,7 @@
 ![Step 5](step_5.png)
 * You are finished! (Oftentimes the HTML is large so you may need to scroll horizontally to see both parts of the diff file). 
 
-# VIEWING THE DIFF
+## VIEWING THE DIFF
 -----------------
 * On the left side of the diff, you will see the raw HTML and what has been removed (highlighted in red)
 * On the right side of the diff, you will see the rendered HTML and what has been added (highlighted in green)
