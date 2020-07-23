@@ -8,7 +8,7 @@
 ## HOW TO USE IT
 
 * **Step 1:** Click on the [repl.it link](https://repl.it/@AnirudhTatavar1/HTML-Diff#main.py) to open the code on your browser. You can edit this code however you would like. 
-* **Note:** If you are pasting the code from github into your own repl, create the following files in your repl
+* **(Note:)** If you are pasting the code from github into your own repl, create the following files in your repl
   * html.txt
   * renderhtml.txt
   * diff.html
