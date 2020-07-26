@@ -12,9 +12,17 @@ user_input = input("Enter a URL to generate the diff: ")
 
 session = HTMLSession()
 
+#grab the raw html
+r = session.get(user_input)
+reg_html = r.text
+
+#write it to file
+with open('html.txt', 'w') as f:
+  for line in reg_html:
+      f.write(line)
+
 #grab the rendered HTML
 try:
-  r = session.get(user_input)
   r.html.render(timeout=40)
   render_html = r.html.html
 except TimeoutError:
@@ -25,15 +33,6 @@ except TimeoutError:
 with open('renderhtml.txt', 'w') as f:
   for line in render_html:
     f.write(line)
-
-#grab the raw html
-r = session.get(user_input)
-reg_html = r.text
-
-#write it to file
-with open('html.txt', 'w') as f:
-  for line in reg_html:
-      f.write(line)
 
 #gather both HTML files to create the diff
 fromfile = 'html.txt'
