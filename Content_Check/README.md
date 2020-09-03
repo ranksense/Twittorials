@@ -18,6 +18,6 @@
 
 ## Viewing the Diff
 
-* On the left side of the diff, you will see the **raw HTML** and what has been removed (highlighted in red)
+* On the left side of the diff, you will see the **rendered HTML** and what has been removed (highlighted in red)
 * On the right side of the diff, you will see the **rendered HTML** and what has been added (highlighted in green)
 * **(Note)** You may need to scroll far to the right of the diff file in order to view the right half
