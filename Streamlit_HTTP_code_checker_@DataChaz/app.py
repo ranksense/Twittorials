@@ -69,7 +69,8 @@ with c30:
 
     MAX_LINES = 20
 
-    text = st.text_area("One URL per line (max 20)", height=300)
+    text = st.text_area("One URL per line (max 20)", 
+"https://httpbin.org/status/200", height=300)
     lines = text.split("\n")  # A list of lines
 
     if not text:
