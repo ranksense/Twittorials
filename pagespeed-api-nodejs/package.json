@@ -1,0 +1,24 @@
+{
+  "name": "pagespeed-api-nodejs",
+  "version": "1.0.0",
+  "description": "Script to extract Google Page Speed API Data from multiple URLs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "pagespeed insights api",
+    "google pagespeed insights api",
+    "google api"
+  ],
+  "author": "Jose Luis Hernando",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "csvtojson": "^2.0.10",
+    "fs": "0.0.1-security",
+    "json2csv": "^5.0.6",
+    "moment": "^2.29.1"
+  }
+}
