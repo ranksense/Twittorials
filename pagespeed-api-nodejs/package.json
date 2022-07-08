@@ -19,6 +19,6 @@
     "csvtojson": "^2.0.10",
     "fs": "0.0.1-security",
     "json2csv": "^5.0.6",
-    "moment": "^2.29.1"
+    "moment": "^2.29.4"
   }
 }
